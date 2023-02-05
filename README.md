@@ -2,8 +2,8 @@
 
 JSON files containing data for The EWC app.
 
-https://christopherlam888.github.io/the-ewc-api/glossary.json
-https://christopherlam888.github.io/the-ewc-api/videos.json
+- https://christopherlam888.github.io/the-ewc-api/glossary.json
+- https://christopherlam888.github.io/the-ewc-api/videos.json
 
 ***
 
